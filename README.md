@@ -18,7 +18,7 @@ Some definitions also require the sum along the main diagonals to add to the sam
 ![img1](./magic_square_imgs/1.png)
 ![img2](./magic_square_imgs/2.png)
 ![img3](./magic_square_imgs/3.png)
-![img4](./magic_square_imgs/4.png)
+![img4](./magic_square_imgs/4.jpg)
 ![img5](./magic_square_imgs/5.png)
 
 ## 其他参考
