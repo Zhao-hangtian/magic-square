@@ -1,5 +1,5 @@
 # magic-square 幻方
-v0.1 实现*普通幻方*与*完美幻方*的检查，幻方的定义参考：
+v0.1 实现**普通幻方**与**完美幻方**的检查，幻方的定义参考：
 
 
 主要参考[百度百科](https://baike.baidu.com/item/%E5%B9%BB%E6%96%B9)、[西塘沿河博客](http://blog.sina.com.cn/s/blog_4cfcf1650102xabk.html)
