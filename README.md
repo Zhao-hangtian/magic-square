@@ -14,6 +14,13 @@ Some definitions also require the sum along the main diagonals to add to the sam
 
 完美幻方（完全幻方）定义为行、列、主、副对角线及泛对角线各数之和均相等。
 
+## Demo
+![img1](./magic_square_imgs/1.png)
+![img2](./magic_square_imgs/2.png)
+![img3](./magic_square_imgs/3.png)
+![img4](./magic_square_imgs/4.png)
+![img5](./magic_square_imgs/5.png)
+
 ## 其他参考
 [Wiki](https://en.wikipedia.org/wiki/Magic_square)
 
